@@ -1,20 +1,19 @@
+# share_price.py
 import yfinance as yf
+import pandas as pd
 import matplotlib.pyplot as plt
 
-ticker = "AAPL"
-
-
+#Apple
+ticker = "AAPL"  
 data = yf.download(ticker, start="2022-01-01", end="2023-12-31")
-print(f"Nombre de lignes téléchargées : {len(data)}")
-if data.empty:
-	print("Aucune donnée téléchargée. Vérifiez votre connexion internet ou le ticker.")
-	exit()
 
+data['SMA'] = data['Close'].rolling(window=20).mean()
 
-plt.figure(figsize=(10, 5))
-plt.plot(data['Close'], label="Close Price")
-plt.title(f"Évolution du prix de {ticker} (1 an)")
-plt.xlabel("Date")
-plt.ylabel("Prix ($)")
+# Calcul de la moyenne mobile sur 20 jours
+data['SMA'] = data['Close'].rolling(window=20).mean()
+
+plt.plot(data['Close'], label='Close')
+plt.plot(data['SMA'], label='SMA 20')
+plt.title(f"Analyse de {ticker}")
 plt.legend()
 plt.show()

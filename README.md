@@ -11,8 +11,8 @@ Welcome to my Trading Portfolio! This repository showcases projects I have devel
   - [Feature 1: e.g., data processing and analysis]
   - [Feature 2: e.g., interactive user input handling]
   - [Feature 3: e.g., visualization of results]
-- **Folder:** [`harvard_project`](./harvard_project)
-- **How to Run:** Follow the instructions in the [`harvard_project/README.md`](./harvard_project/README.md)
+- **Folder:** [`harvard_finalproject`](./harvard_finalproject)
+- **How to Run:** Follow the instructions in the [`harvard_finalproject/README.md`](./harvard_finalproject/README.md)
 
 ### 2. Other Trading Projects
 - **Project Name 1:** Short description of the project.

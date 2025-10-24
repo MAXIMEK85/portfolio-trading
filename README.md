@@ -16,20 +16,13 @@ Here are some of the projects included in this portfolio:
 - When you enter a stock into my program, it analyzes whether it is bullish in the long term or bearish in the long term and also in the short term.
 - It also displays a graph of the stock and shows its price.A brief description of the project and its purpose.
 - **Technologies Used:** Python
-- **Link:** 
+- **Link:** (https://github.com/MAXIMEK85/Harvard-Final-Project)
+
 
 ### Project 2: [Project Name]
 - **Description:** Short description of the project.
 - **Technologies Used:** ...
 - **Link:** ...
-
-*(Repeat for each project you want to showcase)*
-
-## Skills
-
-- **Languages:** [Python, JavaScript, HTML/CSS, etc.]  
-- **Frameworks/Libraries:** [React, Flask, etc.]  
-- **Tools:** Git, GitHu
 
 ## Installation & Usage
 

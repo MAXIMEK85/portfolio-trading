@@ -24,3 +24,8 @@ def test_get_stock_data():
     data = get_stock_data("AAPL", period="1y")
     assert not data.empty
     assert "Close" in data.columns
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> c7fa9d7 (Add Harvard project files and RSI-Calculator)

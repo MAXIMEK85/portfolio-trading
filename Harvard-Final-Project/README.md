@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Stock Trend Analyzer (MA50 / MA200)
 
 Description
@@ -33,3 +34,30 @@ It computes the 50-week and 200-week moving averages
 It checks whether the price is above or below these averages
 It prints the trend results in the terminal and saves a PNG chart
 Example Output
+=======
+# share_price
+
+Ce projet permet de télécharger et d'afficher le prix de l'action Apple (AAPL) sur une période donnée à l'aide de Python, yfinance et matplotlib.
+
+## Prérequis
+- Python 3.x
+- yfinance
+- matplotlib
+
+## Installation des dépendances
+
+```bash
+pip install yfinance matplotlib
+```
+
+## Utilisation
+
+```bash
+python share_price.py
+```
+
+## Auteur
+Votre nom ici
+# portfolio-trading
+Bienvenue dans mon portfolio trading, je souhaite écrire du code pour pouvoir automatiser mon trading 😊🚀
+>>>>>>> c7fa9d7 (Add Harvard project files and RSI-Calculator)

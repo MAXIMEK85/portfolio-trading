@@ -18,10 +18,10 @@ Here are some of the projects included in this portfolio:
 - **Technologies Used:** Python
 - **Link:** (https://github.com/MAXIMEK85/portfolio-trading)
 
-### Project 2: [Project Name]
-- **Description:** Short description of the project.
-- **Technologies Used:** ...
-- **Link:** ...
+### Project 2: [RSI-Calculator]
+- **Description:** A Python program that calculates the Relative Strength Index (RSI) of a stock and visualizes it alongside the stock’s closing prices. Users can input the stock ticker, and the program retrieves historical price data, computes the RSI, and displays a chart with the stock price on top and the RSI indicator below, including overbought (70) and oversold (30) levels.
+- **Technologies Used:** Python
+- **Link:** (https://github.com/MAXIMEK85/portfolio-trading)
 
 ## Installation & Usage
 

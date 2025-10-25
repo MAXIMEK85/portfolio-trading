@@ -1,4 +1,0 @@
- Entrez le symbole de l'action (ex: AAPL, TSLA) : AAPL
-/tmp/ipython-input-4070828638.py:13: FutureWarning: YF.download() has changed argument auto_adjust default to True
-  data = yf.download(ticker, start=start_date, end=end_date)
-[*********************100%***********************]  1 of 1 completed

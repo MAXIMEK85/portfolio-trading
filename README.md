@@ -23,6 +23,12 @@ Here are some of the projects included in this portfolio:
 - **Technologies Used:** Python
 - **Link:** (https://github.com/MAXIMEK85/portfolio-trading)
 
+### Project 3: [double-bottom-rsi]
+- **Description:** A Python program that detects double bottom patterns in financial markets and confirms BUY signals using Relative Strength Index (RSI).  
+Generates a summary table of unique BUY points and plots the detected patterns with price and RSI.
+- **Technologies Used:** Python
+- **Link:** (https://github.com/MAXIMEK85/portfolio-trading)
+
 ## Installation & Usage
 
 To test my projects locally:
